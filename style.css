@@ -1,0 +1,242 @@
+body{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+	background-position: center center;
+	color: #fffeef;
+	background-color: #141414;
+	background-attachment: fixed;
+}
+
+.title{
+	border-bottom: 1px solid #000000;
+}
+
+.box button{
+	padding: 10px 24px;
+	border-radius: 8px;
+	border: none;
+	text-align: center;
+	cursor: pointer;
+	transition: 0.25s;
+}
+
+.box button:hover, button:focus {
+  box-shadow: inset 0 0 0 2em #0394fc;
+}
+
+#header1{
+	margin-bottom: 10px;
+}
+
+#subtitle{
+	font-size: 18px;
+	margin-top: 10px;
+	color: #948787;
+}
+
+.comingsoon{
+	text-transform: uppercase;
+	color: #fffeef;
+}
+
+.logo{
+	width: 300px;
+	margin: 20px 20px auto 20px;
+}
+
+.logo2{
+	width: 50%;
+	margin-top: 100px;
+}
+
+.charimg img{
+	width: 100px;
+}
+
+#uniclr img{
+	width: 65px;
+}
+
+#kofxv img{
+	height: 200px;
+}
+
+#sg img{
+	margin: auto 10px auto 10px;
+}
+
+#sc6 img{
+	width: 85px;
+}
+
+#sfv img{
+	width: 150px;
+}
+
+#sf6 img{
+	width: 175px;
+}
+
+#umvc3 img{
+	width: 75px; 
+	margin: auto 10px auto 10px;
+}
+
+#ggst img{
+	width: 100px;
+}
+
+#dnfd img{
+	width: 100px; 
+}
+
+#dbfzlogo{
+	width: 43%;
+	margin-top: 5%;
+}
+
+#bbcflogo{
+	width: 45%;
+}
+
+#tk7logo{
+	margin-top: 200px;
+}
+
+
+#bbtaglogo{
+	width: 40%;
+}
+
+#ggacprlogo{
+	width: 40%;
+}
+
+#uniclrlogo{
+	width: 65%;
+}
+
+#ggstlogo{
+	padding-bottom: 1%;
+	margin-top: 15%;
+}
+
+#ssbulogo{
+	margin-top: 100px;
+}
+
+#roalogo{
+	margin-top: 100px;
+}
+
+#kof98umlogo{
+	margin-top: 150px;
+}
+
+#mbtllogo{
+	margin-top: 15%;
+}
+
+#sfa2logo{
+	margin-top: 0px;
+	width: 40%;
+}
+
+#sfvlogo{
+	width: 35%;
+}
+
+#ggstlogo2{
+	margin-bottom: 2%;
+}
+
+#mbtllogo2{
+	margin-top: 2%;
+}
+
+#kof13logo{
+	margin-top: 100px;
+}
+
+#kof98um img{
+	margin: auto 5px auto 5px;
+}
+
+#p4aulogo{
+	margin-top: 10px;
+}
+
+#cvs2logo{
+	margin-top: 10px;
+}
+
+#cvs2 img{
+	margin: auto 5px auto 5px;
+}
+
+#mvc2 img{
+	margin: auto 5px auto 5px;
+}
+
+#umvc3logo{
+	width: 40%;
+}
+
+#tvclogo{
+	margin-top: 10px;
+	width: 40%;
+}
+
+#kof02um img{
+	margin: auto 10px auto 10px;
+	width: 90px;
+	height: 90px;
+}
+
+#kof13 img{
+	margin: auto 5px auto;
+}
+
+.return{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	color: #fffeef; 
+	transition: 0.25s;
+}
+
+.return:hover{
+	color: #cdc9d4;
+}
+
+.box{
+	text-align: center;
+}
+
+a:visited{
+	color: #fffeef;
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+.title a{
+	text-decoration: none;
+	color: #000000;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	transition: .25s;
+}
+
+.title a:visited{
+	color: #000000;
+	font-size: 16px;
+}
+
+.title a:hover{
+	color: #948787;
+}
